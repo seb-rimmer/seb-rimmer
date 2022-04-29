@@ -4,7 +4,7 @@
 
 On my GitHub you can find some of my projects on optimal spaceflight trajectories, astrodynamics, and data structures. When I have the time I enjoy learning new programming skills to help solve problems in space! 
 
-- 📫 Find me on LinkedIn at Sebastian Rimmer
+- 📫 Find me on LinkedIn at [Sebastian Rimmer](https://www.linkedin.com/in/sebastian-r-971370122/)
 - How to reach me : srimmer1@sheffield.ac.uk
 
 <!---
